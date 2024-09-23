@@ -12,4 +12,4 @@ The goal of this project is to explore how neural networks interpret and magnify
  * Image Transformation: Produce psychedelic, dream-like visuals from standard images.
 
 ### Example
-![Dream]["images/dream.png"]
+![Dream](images/dream.png)
